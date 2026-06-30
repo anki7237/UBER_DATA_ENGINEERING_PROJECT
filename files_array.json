@@ -1,26 +1,26 @@
 [
   {
-    "file": "bulk_rides.json"
+    "file": "bulk_rides"
   },
   {
-    "file": "index.json"
+    "file": "index"
   },
   {
-    "file": "map_cancellation_reasons.json"
+    "file": "map_cancellation_reasons"
   },
   {
-    "file": "map_cities.json"
+    "file": "map_cities"
   },
   {
-    "file": "map_payment_methods.json"
+    "file": "map_payment_methods"
   },
   {
-    "file": "map_ride_statuses.json"
+    "file": "map_ride_statuses"
   },
   {
-    "file": "map_vehicle_makes.json"
+    "file": "map_vehicle_makes"
   },
   {
-    "file": "map_vehicle_types.json"
+    "file": "map_vehicle_types"
   }
 ]
