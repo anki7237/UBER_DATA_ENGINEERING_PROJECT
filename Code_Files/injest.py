@@ -4,8 +4,8 @@ from pyspark.sql.types import *
 
 
 # Event Hubs configuration
-EH_NAMESPACE                    = ""
-EH_NAME                         = ""
+EH_NAMESPACE                    = "ubereventsf"
+EH_NAME                         = "ubertopic"
 
 
 EH_CONN_STR                     = " "
